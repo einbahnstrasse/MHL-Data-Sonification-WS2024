@@ -1,3 +1,27 @@
+###################################
+# OS Specific
+###################################
+
+# OSX
+**/.DS_Store
+.DS_Store
+*.swp
+*~.nib
+# Thumbnails
+._*
+
+###################################
+# ignore all sound files  
+###################################
+
+*.wav
+*.aif 
+*.aiff
+*.wave 
+*.mp3
+*.m4a
+*.flac 
+
 # Prerequisites
 *.d
 
