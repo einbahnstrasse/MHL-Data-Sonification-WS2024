@@ -68,6 +68,8 @@ Read, edit, run, save, and export your work as you would in VS Code.
 After you finish using JupyterLab, save your work in JupyterLab.
 Then deactivate the virtual environment in Terminal:
 
+control + Z first to stop serving the virtual environment to the browser.
+
 ```
 deactivate
 ```
